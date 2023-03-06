@@ -1,3 +1,5 @@
 Neverlose injector & loader dumped
 
-the executables in this repository are not runnable, Unless you rebuild them.
+The executables in this repository is currently unrunnable. This is because I haven't rebuilt the exe yet.
+
+Enjoy <3
